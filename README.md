@@ -1,4 +1,4 @@
-<h1 align="center">Welcome TO Bankist 👋.</h1>
+<h1 align="center">Welcome To Bankist 👋.</h1>
 <h3 align="center">Simple online banking website made with pure Javascript.</h3>
 
 <h3 align="left">Screenshots:</h3>
