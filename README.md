@@ -2,10 +2,10 @@
 <h3 align="center">Simple online banking website made with pure Javascript.</h3>
 
 <h3 align="left">Screenshots:</h3>
-<img src="https://drive.google.com/uc?id=1n851O2vH5oA5Way6cXKED5jPxv8NC3-p" alt="image1" width="800">
-<img src="https://drive.google.com/uc?id=15-foUqpVFWRf-eWAfhqbzIpBo2ekIP2f" alt="image2" width="800">
-<img src="https://drive.google.com/uc?id=1qp-dHSauzPCNZTpR75OyZ_AnJudHzUki" alt="image3" width="800">
-<img src="https://drive.google.com/uc?id=11SKRV_SNXd-LcdHT6ahdpOukfls5_hCD" alt="image3" width="800">
+<img src="https://drive.google.com/uc?id=1n851O2vH5oA5Way6cXKED5jPxv8NC3-p" alt="image1" width="900">
+<img src="https://drive.google.com/uc?id=15-foUqpVFWRf-eWAfhqbzIpBo2ekIP2f" alt="image2" width="900">
+<img src="https://drive.google.com/uc?id=1qp-dHSauzPCNZTpR75OyZ_AnJudHzUki" alt="image3" width="900">
+<img src="https://drive.google.com/uc?id=11SKRV_SNXd-LcdHT6ahdpOukfls5_hCD" alt="image3" width="900">
 
 <h3 align="left">Languages and Tools:</h3>
 
